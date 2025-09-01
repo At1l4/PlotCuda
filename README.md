@@ -4,7 +4,6 @@
 PlotCUDA is a visual tool that permits the visualization of pruned regions in biological sequences alignments, in the multi-GPU platform MultiBP (https://github.com/Marcoacfbr/MultiBP). It uses the CAIRO library to plot the regions pruned by each GPU and presents the respective pruning statistics. This version presents support only for two GPUs.
 </p>
 
-
 ### Installation
 <p align="justify">
 To install this program you can simply clone the repository in the desired machine:
