@@ -1,0 +1,36 @@
+###############################
+#  STATISTICS FOR STAGE #1.0  #
+###############################
+SW PARAM: 1/-3/-3/-2
+--Alignment sequences:
+>>NZ_CP107553.1 Escherichia coli strain MG1655_insertion chromosome, complete genome
+ (4688502)
+>>NZ_CP154406.1 Escherichia coli strain TST3 chromosome, complete genome
+ (1210074)
+Flush limit: 0
+
+========== GPU MEMORY USAGE ==========
+    Allocated Memory:+4096/+18432 KB
+  Deallocated Memory: 22528 KB
+======= Execution Status =======
+   Best Score: 2325928
+Best Position: (3606318,3645765)
+Stage1 times:
+        PREPARE:    1682.0410 (   1)  avg.: 1682.0410
+           INIT:       0.0000 (   1)  avg.:   0.0000
+          ALIGN:   29610.6758 (   1)  avg.: 29610.6758
+            END:      16.3450 (   1)  avg.:  16.3450
+          TOTAL:   31309.0625
+        Total: 31309.0625
+        Cells: 5.6734e+12 (5.6739e+12)
+        MCUPS: 181207.4062
+
+=====  PRUNING STATS   =====
+Pruned Blocks: 1395228 = 687756 + 707472
+Pruned Blocks: 29.6948 = 14.6376 + 15.0572
+
+===== RUNTIME VARIABLES =====
+     Block Count: 512-512
+
+===== GPU MEMORY USAGE =====
+   Deallocated Memory: 4096 KB
